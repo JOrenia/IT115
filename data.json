@@ -1,0 +1,9 @@
+{
+    "name": "Jereck Orenia",
+    "age": 26,
+    "city": "Lakewood, WA",
+    "interests": [
+        "Tech, Tennis, Photography, sleep"
+    ],
+    "is student": true
+}
