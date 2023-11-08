@@ -1,9 +1,12 @@
 {
     "name": "Jereck Orenia",
-    "age": 26,
+    "age": 27,
     "city": "Lakewood, WA",
     "interests": [
-        "Tech, Tennis, Photography, sleep"
+        "Tech, Tennis, Photography, sleep",
+        "I  yeet me repos",
+        "youre not about that",
+        "im secretly a filipino ninja"
     ],
     "is student": true
 }
